@@ -21,4 +21,4 @@
 
 ## Technologies
 
---- React.Js -- React-Router -- TailWind ---
+--- React.Js -- React-Router -- TailWind --- 
