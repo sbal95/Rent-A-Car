@@ -7,7 +7,7 @@ const BestOffers = () => {
   const filteredCarList = carList.filter((car) => car.isBestOffer === true);
   return (
     <div className="w-full py-16 flex flex-col gap-16 items-center justify-center">
-      <div className="text-white py-14 font-relaway font-extrabold text-3xl text-center bg-orange-500 ">
+      <div className="text-white p-10 w-full font-relaway font-extrabold text-5xl text-center bg-orange-500 ">
         Our Best Offers
       </div>
       <div className="grid grid-cols-3 container mx-auto gap-10">

@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { useParams } from "react-router-dom";
 import { carList } from "../../components/CarList/carList";
 import { AiOutlineLeft, AiOutlineRight } from "react-icons/ai";
+import CarDetailImages from "../../components/CarDeatailImages/CarDetailImages";
 
 const CarDetail = () => {
   const { id } = useParams();
@@ -23,9 +24,8 @@ const CarDetail = () => {
     }
   };
   return (
-    
     <div className="flex flex-row justify-evenly gap-20 font-relaway font-semibold py-20 container mx-auto h-full items-start">
-      <div className="relative w-[60%] h-[600px] rounded-3xl shadow-[11px_11px_66px_11px_#4A5568]">
+      <div className="relative w-[60%] h-[600px] rounded-xl">
         {imgList.map((img, i) => (
           <img
             src={img}
@@ -48,19 +48,18 @@ const CarDetail = () => {
         >
           <AiOutlineRight />
         </button>
-        <div className="flex flex-row absolute bottom-5 w-full items-center justify-center gap-3">
-          {car.imgList.map((car, i) => (
+        <div className="flex flex-row flex-wrap container pt-5 w-full h-20 gap-3">
+          {imgList.map((img, i) => (
             <button
-              className={`w-8 h-1 bg-opacity-75 rounded-3xl ${
-                activeIndex === i ? "bg-red-800" : "bg-white"
-              }`}
-              key={i}
               onClick={() => setActiveIndex(i)}
-            ></button>
+              className={`${activeIndex === i ? "border-2 border-blue-500" : ""} rounded-xl`}
+            >
+              <CarDetailImages img={img} className="rounded-xl"/>
+            </button>
           ))}
         </div>
       </div>
-      <div className="w-[20%] h-[100%] flex flex-col gap-32 py-8 shadow-[11px_11px_66px_11px_#4A5568] rounded-3xl items-center justify-evenly">
+      <div className="w-[20%] h-full flex flex-col gap-32 rounded-3xl items-start justify-evenly">
         <div className=" flex flex-col gap-8 h-full">
           <div className="flex flex-col gap-2 text-base font-light">
             <span className="font-relaway font-semibold text-xl">Car Name</span>

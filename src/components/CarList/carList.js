@@ -53,10 +53,10 @@ export const carList = [
     power: "1020 psi",
     modal: "2023",
     imgList: [
-      "https://www.thedrive.com/content/2021/07/tesla-plaid-lead.jpg?quality=85&crop=16%3A9&auto=webp&optimize=high&quality=70&width=1440",
-      "https://hips.hearstapps.com/hmg-prod/images/2021-tesla-model-s-plaid-117-1638811399.jpg",
-      "https://shiftdelete.net/wp-content/uploads/2021/06/tesla-model-s-plaid-tanitildi-iste-ozellikleri2.jpg",
-      "https://www.sertackemiksiz.com/images/2020/12/12/2021-tesla-model-s-7.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Audi_SQ8_at_IAA_2019_IMG_0308.jpg/1200px-Audi_SQ8_at_IAA_2019_IMG_0308.jpg",
+      "https://ares.shiftdelete.net/2022/02/yeni-audi-q8-fiyat-listesi-2022.jpg",
+      "https://cdn.motor1.com/images/mgl/QR8e7/s3/2018-audi-q8-first-drive.jpg",
+      "https://www.sertackemiksiz.com/images/2021/01/11/2021-audi-rs-q8-7.jpg",
     ],
   },
   {
@@ -68,10 +68,10 @@ export const carList = [
     power: "1020 psi",
     modal: "2023",
     imgList: [
-      "https://www.thedrive.com/content/2021/07/tesla-plaid-lead.jpg?quality=85&crop=16%3A9&auto=webp&optimize=high&quality=70&width=1440",
-      "https://hips.hearstapps.com/hmg-prod/images/2021-tesla-model-s-plaid-117-1638811399.jpg",
-      "https://shiftdelete.net/wp-content/uploads/2021/06/tesla-model-s-plaid-tanitildi-iste-ozellikleri2.jpg",
-      "https://www.sertackemiksiz.com/images/2020/12/12/2021-tesla-model-s-7.jpg",
+      "https://cdn.motor1.com/images/mgl/7J92J/s3/vw-tiguan-ii-mk2.jpg",
+      "https://www.otokokpit.com/wp-content/uploads/2020/10/2021-yeni-vw-tiguan-turkiye-7.jpg",
+      "https://cdn1.ntv.com.tr/gorsel/H8HxJ2RntEuwegWA4CcV-Q.jpg?width=1000&mode=crop&scale=both",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVeJJnvOJG7Zxa43Fj-0hpuitTHULuXIQzRg&usqp=CAU",
     ],
   },
   {
@@ -83,10 +83,10 @@ export const carList = [
     power: "1020 psi",
     modal: "2023",
     imgList: [
-      "https://www.thedrive.com/content/2021/07/tesla-plaid-lead.jpg?quality=85&crop=16%3A9&auto=webp&optimize=high&quality=70&width=1440",
-      "https://hips.hearstapps.com/hmg-prod/images/2021-tesla-model-s-plaid-117-1638811399.jpg",
-      "https://shiftdelete.net/wp-content/uploads/2021/06/tesla-model-s-plaid-tanitildi-iste-ozellikleri2.jpg",
-      "https://www.sertackemiksiz.com/images/2020/12/12/2021-tesla-model-s-7.jpg",
+      "https://cdn.motor1.com/images/mgl/YozWJ/s1/2020-gr-supra-2-0l-turbo.jpg",
+      "https://themarketplace.cl/uploads/1/4NSAu3s-XiCFhobssLq6WMIrJIpGNT12.jpeg",
+      "https://www.actualidadmotor.com/wp-content/uploads/2022/04/toyota-supra-manual-1.jpg",
+      "https://www.donanimhaber.com/images/images/haber/106955/src/2019-toyota-supra-fiyati106955_1.jpg",
     ],
   },
   {
@@ -98,10 +98,10 @@ export const carList = [
     power: "1020 psi",
     modal: "2023",
     imgList: [
-      "https://www.thedrive.com/content/2021/07/tesla-plaid-lead.jpg?quality=85&crop=16%3A9&auto=webp&optimize=high&quality=70&width=1440",
-      "https://hips.hearstapps.com/hmg-prod/images/2021-tesla-model-s-plaid-117-1638811399.jpg",
-      "https://shiftdelete.net/wp-content/uploads/2021/06/tesla-model-s-plaid-tanitildi-iste-ozellikleri2.jpg",
-      "https://www.sertackemiksiz.com/images/2020/12/12/2021-tesla-model-s-7.jpg",
+      "https://www.topgear.com/sites/default/files/2022/12/22C0378_015.jpg",
+      "https://www.topgear.com/sites/default/files/2022/03/1-Mercedes-S-Class-plug-in.jpg",
+      "https://www.donanimhaber.com/images/images/haber/156737/src/yeni-mercedes-amg-s-63-e-performance-tanitildi-iste-ozellikleri156737_2.jpg",
+      "https://www.otokokpit.com/wp-content/uploads/2014/05/brabus-850s-2014-mercedes-benz-s63-amg-13.jpg",
     ],
   },
   {
@@ -113,10 +113,10 @@ export const carList = [
     power: "1020 psi",
     modal: "2023",
     imgList: [
-      "https://www.thedrive.com/content/2021/07/tesla-plaid-lead.jpg?quality=85&crop=16%3A9&auto=webp&optimize=high&quality=70&width=1440",
-      "https://hips.hearstapps.com/hmg-prod/images/2021-tesla-model-s-plaid-117-1638811399.jpg",
-      "https://shiftdelete.net/wp-content/uploads/2021/06/tesla-model-s-plaid-tanitildi-iste-ozellikleri2.jpg",
-      "https://www.sertackemiksiz.com/images/2020/12/12/2021-tesla-model-s-7.jpg",
+      "https://cdn.motor1.com/images/mgl/vxxkwq/s1/4x3/nuova-nissan-x-trail-2022.webp",
+      "https://cdn.5haber.com/news/2353.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTtMHmI5IPH_FAWxuHD9rd1gcDvPjCFqUkzQ&usqp=CAU",
+      "https://www.donanimhaber.com/images/images/haber/152456/src/yeni-nesil-2022-nissan-x-trail-tasarimi-ve-ozellikleri152456_3.jpg",
     ],
   },
   {

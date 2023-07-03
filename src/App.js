@@ -4,6 +4,7 @@ import Home from "./pages/Home";
 import Layout from "./components/Layout/Layout";
 import CarDetail from "./pages/CarDetail";
 import Vehicles from "./pages/Vehicles";
+import Service from "./pages/Service";
 // import NotFound from '../pages/NotFound'
 
 const App = () => {
@@ -14,6 +15,9 @@ const App = () => {
           <Route exact path="/" Component={Home} />
           <Route exact path="/home" Component={Home} />
           <Route exact path="/vehicles" Component={Vehicles} />
+          <Route exact path="/service" Component={Service} />
+          {/* <Route exact path="/about" Component={Vehicles} /> */}
+
           <Route path="/carDetail/:id" Component={CarDetail} />
           {/* <Route path="*" element={<NotFound/>}/> */}
         </Routes>
