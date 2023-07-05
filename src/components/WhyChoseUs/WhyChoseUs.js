@@ -12,7 +12,7 @@ const WhyChoseUs = () => {
               SAFETY & SECURITY
             </div>
             <div className="max-w-[75%]">
-              variations of passages of Lorem Ipsum available, but the majority
+              Variations of passages of Lorem Ipsum available, but the majority
               have
             </div>
           </div>
@@ -22,7 +22,7 @@ const WhyChoseUs = () => {
               Online Booking
             </div>
             <div className="max-w-[75%]">
-              variations of passages of Lorem Ipsum available, but the majority
+              Variations of passages of Lorem Ipsum available, but the majority
               have
             </div>
           </div>
@@ -32,7 +32,7 @@ const WhyChoseUs = () => {
               Best Drivers
             </div>
             <div className="max-w-[75%]">
-              variations of passages of Lorem Ipsum available, but the majority
+              Variations of passages of Lorem Ipsum available, but the majority
               have
             </div>
           </div>
