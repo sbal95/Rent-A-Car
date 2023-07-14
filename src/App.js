@@ -6,7 +6,6 @@ import CarDetail from "./pages/CarDetail";
 import Vehicles from "./pages/Vehicles";
 import Service from "./pages/Service";
 import AboutUs from "./pages/About";
-// import NotFound from '../pages/NotFound'
 
 const App = () => {
   return (

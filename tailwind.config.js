@@ -14,9 +14,10 @@ module.exports = {
         relaway: "Raleway Sans-Serif",
       },
       boxShadow: {
-        'shadow-orange': '5px_10px_10px_10px_#dd6b20',
-      }
-    }
+        shadowOrange: "5px_10px_10px_10px_#dd6b20",
+        custom: "1px 1px 10px 1px #1a202c",
+      },
+      plugins: [],
+    },
   },
-  plugins: [],
 };
